@@ -2,8 +2,7 @@
 Express skeleton is a startup demo structure to start a express project. it is using express framework. it is an example to use 
 a structure.
 
-[![Snap Status](https://build.snapcraft.io/badge/sas05/express-skeleton.svg)]
-(https://build.snapcraft.io/user/sas05/express-skeleton)
+![Snap Status](https://build.snapcraft.io/badge/sas05/express-skeleton.svg)
 
 ###### Requirements
 Linux / OSX / Windows (partial support)
